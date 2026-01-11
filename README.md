@@ -9,7 +9,7 @@ Build a personal portfolio website to showcase your skills, hobbies, or anything
 
 ---
 
-**Requirements**:
+**Requirements**: 
 
 1. **Unique Theme**: Your website should have a theme that is individual to you. For example, if you love gardening, you could create a garden-themed website.
 

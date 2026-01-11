@@ -1,0 +1,1 @@
+For my project I decided to go with my passion which is video games. Video games is what got me into computer science and honestly the reason I am in school. I wanted my project to look like old schoolish with the pixelated art and pictures. I know this is not the most extravegent project but I really liked how it look. I hope you enjoy!
